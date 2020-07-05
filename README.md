@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# GREAT-PROJECT-FOR-ENVIRONMENT
+    THÙNG RÁC THÔNG MINH TỰ ĐỘNG PHÂN LOẠI RÁC
 
-You can use the [editor on GitHub](https://github.com/phamvi856/GREAT-PROJECT-FOR-ENVIRONMENT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Với sự phát triển nhanh của xã hội, rác thải được sinh ra nhiều hơn. Điều này có nghĩa là một lượng lớn rác thải được tạo ra mỗi năm và tăng một cách không mong muốn. Nhiều rác thải hơn có nghĩa là nhiều hơn sự tiêu thụ và lãng phí nguồn tài nguyên. Phân loại và tái chế là điều cần thiết để giảm nguồn rác thải.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    Ý tưởng thực hiện dự án:
+                                                   
+Việc phân loại đúng rác thải sẽ góp phần tiết kiệm tài nguyên, giảm chi phí cho công tác thu gom và xử lý rác thải. Với những tính năng vô cùng tiện lợi mà thùng rác thông minh mang đến, sản phẩm này có thể đặt ở những nơi công cộng, nơi có nhiều người qua lại như công viên, đường phố, …hay còn có thể đặt trong các toà nhà như công ty, trường học… Magic Bin có khả năng định vị, nhận biết số lượng rác trong thùng, rất thuận tiện trong việc thu dọn rác thải.
+    
+    Mục tiêu chung:
+    
+Đưa thông điệp đến người sử dụng cùng nhau chung tay bảo vệ môi trường đặc biệt là nâng cao nhận thức của giới trẻ về tầm quan trọng của việc phân loại rác tại nguồn, coi việc bảo vệ môi trường là trách nhiệm của mọi người.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phamvi856/GREAT-PROJECT-FOR-ENVIRONMENT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    Doanh nghiệp QTQM-SS004
